@@ -1,10 +1,11 @@
+# LockIn
 
-# LandMarkDash 
-
-LandMarkDash is a game based on Detroit, where players travel around the city to visit historical landmarks and learn about Detroit's history. They collect mementos like popular snacks and souvenirs from the area. I worked as a coder on the project and was part of a team. We all worked together to help with coding, design, and other parts of the game. Our main goal was to create a fun and engaging experience, which we achieved by collaborating and using each other's strengths.
+Lockin is a app that we created for are user to stay focus and on task.where I worked with a team to code different screens and help with the design. The goal was to create an engaging and interactive game that was both functional and visually appealing.
 # My Contributions
-As a coder, my main responsibility was to write the code to make sure the game ran smoothly. I also helped with the design, offering ideas to make the game look appealing and easy to play. Working on both coding and design helped me learn and grow in both areas.
+As a coder I was responsible for programming the game’s screens and assisting with design. I worked closely with the team to support each other.
 # What I Learned
-This project taught me a lot about coding, design, and the importance of teamwork. I learned how crucial it is to communicate, collaborate, and support each other to overcome challenges. The project had its ups and downs, but in the end, we came together, solved problems, and created something we were really proud of. It was a great opportunity to improve my skills and work with a talented team. The coding and design procces helped me understand that code can be very hard but there is always an answer to fix the errors. With design I learned taht it has a big impact on how the app is going to go together and that all the colors look good together. Both of these aspects I learned are super important in the app creation process.
+This was my first big project at the Apple Devloper Academy, and I was nervous about how it would go. But over time, I realized it’s okay to face difficulties and that asking my team for help is part of the learning process. I felt frustrated at times, but I also felt proud of the progress I made. The whole experience helped me build my confidence and improved my ability to work collaboratively.
+I learned so much about coding and how to balance design with functionality. This experience was really valuable in helping me grow both technically and personally, especially when it came to working in a team. At the beginning, the challenge was tough because I was just getting back into coding which lead me to fell a bit overwhelmed at times but with perseverance and the help of my team we managed to collaborate and get really far with the challenge.
 
-<img width="1120" alt="Screenshot 2025-02-27 at 2 56 33 PM" src="https://github.com/user-attachments/assets/2b5e1c3c-fada-4daf-8e62-b9fe03723e7d" />
+
+<img width="613" alt="Screenshot 2025-02-27 at 2 22 19 PM" src="https://github.com/user-attachments/assets/de82585e-d275-4471-a0ee-8b48ae426b6b" />
